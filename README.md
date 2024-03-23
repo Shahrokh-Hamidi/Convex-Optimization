@@ -5,3 +5,8 @@
 - The project has been coded in Python3.
 
 
+
+
+- References:
+
+  - S. Boyd and L. Vandenberghe, Convex Optimization. Cambridge: Cambridge University Press, 2004.
