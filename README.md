@@ -1,4 +1,4 @@
- - This repository contains some of the exercises and examples from the following book which I have written in Python3:
+ - This repository contains some of the exercises and examples from the following book which I have coded in Python3:
 
         S. Boyd and L. Vandenberghe, Convex Optimization. Cambridge: Cambridge University Press, 2004.
 
