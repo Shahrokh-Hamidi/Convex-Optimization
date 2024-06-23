@@ -5,6 +5,7 @@
  
 
 - Analytical Center of a Polytope
+- 
 ![Analytical Center of a Polytope](https://github.com/Shahrokh-Hamidi/Convex-Optimization/assets/156338354/dc7ce131-8d47-4b07-b369-140c4f4e12a5)
 - 
 - Chebyshev center of a 2D polyhedron
@@ -31,6 +32,8 @@
 - 
 ![Linear Discrimination](https://github.com/Shahrokh-Hamidi/Convex-Optimization/assets/156338354/487716bb-1da1-4854-960a-a421d0e92bf9)
 -
+- Linear Placement Problem
+- 
 ![Linear Placement Problem](https://github.com/Shahrokh-Hamidi/Convex-Optimization/assets/156338354/5be587c4-50b5-42c2-ad3b-fc5a0c14d725)
 -
 - Max Volume Inscribed Ellipsoid
