@@ -4,7 +4,15 @@ import cvxpy as cp
 import matplotlib 
 
 
-#y = np.loadtxt('D:/code/optimization/CVX-master/examples/time_series_analysis/snp500.txt')
+
+#
+# the data has been generated based on an AR model of order 1
+# when A0 = 1, the model describes random walk
+# in order to get an AR model A0 should be chosen as A0 < 1
+
+
+
+
 n = 2000
 y = np.zeros(n)
 A0 = 1
