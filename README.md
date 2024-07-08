@@ -4,6 +4,10 @@
 
  
 
+- Time Series Analysis
+- 
+- ![time_series_analysis](https://github.com/Shahrokh-Hamidi/Convex-Optimization/assets/156338354/8bf60cba-8042-42d3-a098-23a8ef5a76a9)
+- 
 - Analytical Center of a Polytope
 - 
 ![Analytical Center of a Polytope](https://github.com/Shahrokh-Hamidi/Convex-Optimization/assets/156338354/dc7ce131-8d47-4b07-b369-140c4f4e12a5)
